@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+azure-cognitiveservices-vision-computervision
+google-cloud-vision
+google-generativeai 
+ollama
